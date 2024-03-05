@@ -16,5 +16,6 @@ There are 2 available endpoints
 # How to start this project
 
 1. Clone this project
-2. Run `npm install`
-3. Run `npm run dev`
+2. Don't forget to configure your `.env` file
+3. Run `npm install`
+4. Run `npm run dev`
